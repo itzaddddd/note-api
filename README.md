@@ -15,6 +15,6 @@ API
 4. GET   /tag => Get note with tag (must add querystring => ?tag=xxx)
 
 *mark 
-1. sorting may doesn't working
+1. sorting may be not working
 2. validation doesn't define
 
